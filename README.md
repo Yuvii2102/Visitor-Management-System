@@ -90,4 +90,10 @@ So, VMS is widely used in many places to saves time, improve security and tracki
 * Scan → instant check-in
 * Solves: Faster entry process
 
+Conclusion 
+
+The Visitor Management System is a secure and efficient way to manage visitors.
+
+It replaces manual work with automation, saves time, and provides real-time tracking for better security.
+
   

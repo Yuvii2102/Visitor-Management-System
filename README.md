@@ -1,4 +1,4 @@
-                                                Visitor Management System
+  # 📊 Visitor Management System
 
 * A Visitor Management System (VMS) is a software used to track and manage visitors entering a place like it can be a company, college, hospital, or apartment.
 
@@ -6,25 +6,33 @@
 
 * A Visitor Management System is a digital system used to record, monitor, and manage the entry and exit of visitors in an organization.
 
-                                              Problems in manual system
+---  
+
+# 🛠 Problems in manual system
 
 In many organizations, visitor details are recorded manually, which is time-consuming and insecure. This aims to develop a digital system to manage visitors efficiently.
 
-                                                     Existing System
+---
+
+# ⚙️ Existing System
 
 * Manual entry (register)
 * Time-consuming
 * Data loss possible
 * No real-time tracking
 
-                                             What this system does ( Overview ) 
+---
+
+# 🛠 What this system does ( Overview ) 
 
 * 📝Register visitor's details ( it can be their name, phone number, id )
 * 🆔 Give entry pass / ID
 * ⏱ Record check-in & check-out time
 * 🔔 Notify the person they came to meet
 
-                                                   Real World Use
+---  
+
+# 📂 Real World Use
 
 i] Offices & IT Companies
 * Track clients, interview candidates, guests
@@ -53,7 +61,9 @@ v] Airports & Railway Stations
 
 So, VMS is widely used in many places to saves time, improve security and tracking.
 
-                                         Features that may be added to improve VMS System
+---
+
+# ✨ Features that may be added to improve VMS System
 
 1. 🧠 Visitor Risk Score 
 * System gives a risk score (Low / Medium / High)
@@ -90,10 +100,19 @@ So, VMS is widely used in many places to saves time, improve security and tracki
 * Scan → instant check-in
 * Solves: Faster entry process
 
-Conclusion 
+---  
 
-The Visitor Management System is a secure and efficient way to manage visitors.
+# 📌 Conclusion 
 
-It replaces manual work with automation, saves time, and provides real-time tracking for better security.
+* The Visitor Management System is a secure and efficient way to manage visitors.
+
+* It replaces manual work with automation, saves time, and provides real-time tracking for better security.
+
+---
+
+## 👨‍💻 Author
+Yuvraj.R | Aspiring Software Developer |
+
+---
 
   
